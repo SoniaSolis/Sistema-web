@@ -1,0 +1,14 @@
+
+.abcproductores{
+    display: flex;
+    flex-direction: column;
+    font-size: 14px;
+    align-items: center;
+    text-align: center;
+
+}
+
+.productoform, .tabla{
+    display: flex;
+    flex-direction: column;
+}

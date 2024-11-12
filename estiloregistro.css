@@ -1,0 +1,46 @@
+html,
+body {
+  height: 100%;
+}
+
+.formularios{
+  display: flex;
+  margin-bottom: 5px;
+  background-color: azure;
+  
+}
+
+.inicio, .registrar{
+  width: 100%;
+  padding: 15px;
+  margin: auto;
+  text-align: center;
+  
+}
+
+.formularios h1{
+    color: green;
+    font-size: 40px;
+    font-family: 'Times New Roman', Times, serif;
+
+}
+
+.formularios img{
+ border-radius: 80%;
+ padding: 20px;
+ 
+}
+
+.olvidar{
+    color: green;
+    font-size: 17px;
+    text-decoration: underline;
+
+}
+
+.button{
+    border-radius: 10px;
+    background-color: green;
+    color: aliceblue;
+    font-size: 20px;
+}
